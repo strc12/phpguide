@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "squirt72";
+$password = "**********";
 $dbname="phpguide";
 
 try {
